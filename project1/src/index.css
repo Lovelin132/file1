@@ -1,0 +1,26 @@
+*{
+  margin:0;
+  padding: 0;
+  border:border-box;
+}
+
+
+.box1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 15px;
+  border: 2px solid black;
+  height: 600px;
+  width: 600px;
+  
+}
+
+.container1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* margin: 15px; */
+}
+
